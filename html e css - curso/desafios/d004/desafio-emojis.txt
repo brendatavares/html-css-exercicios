@@ -1,0 +1,1 @@
+Criar em HTML uma lista com emojis favoritos.

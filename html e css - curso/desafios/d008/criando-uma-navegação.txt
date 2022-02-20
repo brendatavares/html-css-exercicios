@@ -1,0 +1,2 @@
+Crie páginas e os faça navegarem entre elas mesmas. Colocando links de ida e volta nas páginas.
+Mude também as cores de cada página.

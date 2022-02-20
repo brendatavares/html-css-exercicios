@@ -1,0 +1,1 @@
+fazer uma lista de coisas/atributos que podem ser adicionados em uma página, e fazer com que, ao passar o mouse, mostre o seu significado e função.

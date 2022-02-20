@@ -1,0 +1,1 @@
+Faça uma imagem se tornar flexível em um site.

@@ -1,0 +1,2 @@
+Exercicio bonus:
+O objetivo é criar um site que contenha uma lista de filmes que deseja ver no ano de 2022. Colocar imagens e links (externos e internos), e aplicar as tags que foram aprendidas.
